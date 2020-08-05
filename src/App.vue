@@ -238,6 +238,10 @@ sup, strong {
   align-items: center;
   padding: 5px 20px;
   border-radius: 5px;
+  cursor: pointer;
+}
+.calendar:hover {
+  box-shadow: 5px 5px 10px grey;
 }
 .icon-c {
   margin-right: 20px;
